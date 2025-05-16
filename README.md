@@ -24,8 +24,3 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 ##
 🎯 Foco: desempenho, organização e código de qualidade  
 📍 Local: Brasil · Disponível para novos desafios
-##
-🔗 Links:
-- GitHub: [github.com/kakabraga](https://github.com/kakabraga)
-- LinkedIn: [linkedin.com/in/cauê-braga-796765256](https://www.linkedin.com/in/cauê-braga-796765256)
-- Email: cauebraga.dev@gmail.com
