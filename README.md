@@ -9,4 +9,5 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 
 🔗 Links:
 - GitHub: [github.com/kakabraga](https://github.com/kakabraga)
-- LinkedIn: [linkedin.com/in/cauê-braga-796765256](https://www.linkedin.com/in/cauê-braga-796765256) 
+- LinkedIn: [linkedin.com/in/cauê-braga-796765256](https://www.linkedin.com/in/cauê-braga-796765256)
+- Email: cauebraga.dev@gmail.com
