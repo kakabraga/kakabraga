@@ -9,6 +9,7 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![Vue.js](https://skillicons.dev/icons?i=vue)
 
 ### 🧰 Back-End
 ![PHP](https://skillicons.dev/icons?i=php)
