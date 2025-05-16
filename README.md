@@ -24,3 +24,5 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 ##
 🎯 Foco: desempenho, organização e código de qualidade  
 📍 Local: Brasil · Disponível para novos desafios
+
+📧 Email: cauebraga.dev@gmail.com
