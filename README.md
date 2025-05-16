@@ -25,8 +25,8 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 ### ⚙️ Ferramentas
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+[  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />](https://skillicons.dev/icons?i=docker,git,github)
 </div>
 
 
