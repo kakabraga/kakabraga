@@ -20,6 +20,7 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 ### ⚙️ Ferramentas
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 🎯 Foco: desempenho, organização e código de qualidade  
 📍 Local: Brasil · Disponível para novos desafios
