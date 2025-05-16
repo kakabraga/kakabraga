@@ -15,6 +15,7 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### ⚙️ Ferramentas
 ![Docker](https://skillicons.dev/icons?i=docker)
