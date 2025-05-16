@@ -3,8 +3,8 @@
 Sou desenvolvedor back-end com foco em *Laravel*, com experiência na criação de APIs RESTful e sistemas web escaláveis.  
 Tenho paixão por resolver problemas com código limpo, boas práticas e atenção à arquitetura de software.
 
+
 ## 🛠️ Tecnologias que uso
-##
 ### 🎨 Front-End
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
