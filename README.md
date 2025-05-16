@@ -1,12 +1,12 @@
-## Fala aí! 👋 Sou o Cauê Braga
+## Cauê Braga | Desenvolvedor Laravel
 
-🚀 Programador que ama código, café e resolver bugs (de preferência os dos outros 😅).  
-Trabalho com **Laravel** e vivo fuçando novas formas de criar sistemas que funcionem bem e sejam fáceis de manter.
+Sou desenvolvedor back-end com foco em *Laravel*, com experiência na criação de APIs RESTful e sistemas web escaláveis.  
+Tenho paixão por resolver problemas com código limpo, boas práticas e atenção à arquitetura de software.
 
-💡 “Quanto mais simples, melhor” é minha filosofia.  
-🛠️ Stack: Laravel, PHP, MySQL, HTML, CSS e JavaScript puro na veia  
-🤝 Sempre aberto a trocar ideia e colaborar em projetos
+💼 Tecnologias principais: PHP · Laravel · MySQL · JavaScript  
+🎯 Foco: desempenho, organização e código de qualidade  
+📍 Local: Brasil · Disponível para novos desafios
 
-🔗 Me encontra aqui:
-- GitHub: [@kakabraga](https://github.com/kakabraga)
-- LinkedIn: [Cauê Braga](https://www.linkedin.com/in/cauê-braga-796765256)
+🔗 Links:
+- GitHub: [github.com/kakabraga](https://github.com/kakabraga)
+- LinkedIn: [linkedin.com/in/cauê-braga-796765256](https://www.linkedin.com/in/cauê-braga-796765256) 
