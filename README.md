@@ -6,16 +6,10 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 
 ## 🛠️ Tecnologias que uso
 ### 🎨 Front-End
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Vue.js](https://skillicons.dev/icons?i=vue)
+![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,react,js,vue,bootstrap,tailwind)
 ##
 ### 🧰 Back-End
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Express](https://skillicons.dev/icons?i=express)
+![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express)
 ##
 ### ⚙️ Ferramentas
 ![Docker](https://skillicons.dev/icons?i=docker)
