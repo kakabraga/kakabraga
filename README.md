@@ -22,7 +22,7 @@ Tenho paixão por resolver problemas com código limpo, boas práticas e atenç�
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakabraga&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakabraga&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
